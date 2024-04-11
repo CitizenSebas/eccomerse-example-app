@@ -24,7 +24,7 @@ export const ProductsApp = () => {
   return (
     <QueryClientProvider client={ queryClient }>
       <IconRegistry icons={EvaIconsPack} />
-      <ApplicationProvider {...eva} theme={theme}>
+      <ApplicationProvider {...eva} theme={eva.light}>
         <NavigationContainer
           theme={{
             dark: colorScheme === 'dark',

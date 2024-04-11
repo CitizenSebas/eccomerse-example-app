@@ -6,3 +6,9 @@
 3. Renombrar archivo .env.example a .env
 4. Actualizar las variables de entorno en el archivo .env
 5. Ejecutar el proyecto ```npm run start```
+
+
+## Backend
+
+1. si quieres probar el backend de la app no dudes en contacterme para poder pasartelo
+
